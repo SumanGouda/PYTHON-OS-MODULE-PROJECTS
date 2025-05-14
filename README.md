@@ -1,4 +1,4 @@
-# 🗂️ File Organizer with GUI
+# 🗂️ Pro File Organizer with GUI
 
 A simple Python-based file organizer that allows you to:
 - Organize files into folders by type
