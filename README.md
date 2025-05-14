@@ -25,12 +25,6 @@ A simple Python-based file organizer that allows you to:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your GUI window here (optional)
-
----
-
 ## 💻 How to Run
 
 1. Clone the repository:
@@ -42,18 +36,18 @@ A simple Python-based file organizer that allows you to:
      python "PRO FILE ORGANIZERS.py"
 
  
- 📌 File Structure.
+ ## 📌 File Structure.
 ├── PRO FILE ORGANIZERS.py  # Main logic with FileManager class
 ├── run_gui.py              # GUI interface setup
 ├── main_menu.py            # (Optional) CLI interface
 ├── README.md               # Project description
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Suman Gouda
 Python enthusiast & learner
 📫 Reach me through GitHub
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 
